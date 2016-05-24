@@ -1,2 +1,6 @@
 # hello-world
-Just for learn git
+
+Hi humans,
+
+Hubot here, I like Note.js and Asp.Net.
+
